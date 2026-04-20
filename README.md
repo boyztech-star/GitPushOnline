@@ -21,10 +21,10 @@ https://www.boyztech.com/2026/04/github-repository-files-and-folder.html
 ## 📸 Screenshots
 
 ### 🧩 Main Interface
-![Main UI](https://github.com/boyztech-star/GitPushOnline/blob/main/Screenshot_2026-04-20-08-39-39-68_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Main UI](https://github.com/boyztech-star/GitPushOnline/blob/main/Screenshot_2026-04-20-08-39-24-64_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### 📂 Folder Selection
-![Folder Picker](https://github.com/boyztech-star/GitPushOnline/blob/main/Screenshot_2026-04-20-08-39-24-64_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Folder Picker](https://github.com/boyztech-star/GitPushOnline/blob/main/Screenshot_2026-04-20-08-39-39-68_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### 📊 Upload Progress
 ![Progress](https://github.com/boyztech-star/GitPushOnline/blob/main/IMG_20260420_08434372.jpeg)
@@ -118,7 +118,7 @@ Unauthorized distribution or commercial usage is strictly prohibited.
 
 ## 👤 Author
 
-Developed by **![Abu Rayhan](https://github.com/boyztech-star/GitPushOnline)**
+Developed by **Abu Rayhan**
 
 ---
 
