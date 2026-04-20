@@ -14,20 +14,20 @@ A modern, mobile-friendly web tool that allows users to upload an entire folder 
 > ⚠️ Demo is for testing purposes only (do not use real tokens)
 
 🔗 **Try it here:**  
-https://your-demo-link.com
+https://www.boyztech.com/2026/04/github-repository-files-and-folder.html
 
 ---
 
 ## 📸 Screenshots
 
 ### 🧩 Main Interface
-![Main UI](https://via.placeholder.com/800x400?text=GitPush+Mobile+UI)
+![Main UI](https://github.com/boyztech-star/GitPushOnline/blob/main/Screenshot_2026-04-20-08-39-39-68_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### 📂 Folder Selection
-![Folder Picker](https://via.placeholder.com/800x400?text=Folder+Selection)
+![Folder Picker](https://github.com/boyztech-star/GitPushOnline/blob/main/Screenshot_2026-04-20-08-39-24-64_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### 📊 Upload Progress
-![Progress](https://via.placeholder.com/800x400?text=Upload+Progress)
+![Progress](https://github.com/boyztech-star/GitPushOnline/blob/main/IMG_20260420_08434372.jpeg)
 
 ---
 
@@ -118,10 +118,10 @@ Unauthorized distribution or commercial usage is strictly prohibited.
 
 ## 👤 Author
 
-Developed by **Abu Rayhan**
+Developed by **![Abu Rayhan](https://github.com/boyztech-star/GitPushOnline)**
 
 ---
 
 ## ⭐ Support
 
-If you find this tool useful, please respect the license and keep it private 🙏
+If you find this tool useful, please respect the license and Share with friends, family 🙏
